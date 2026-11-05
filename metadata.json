@@ -1,0 +1,6 @@
+{
+  "name": "Jalwa AI Number Prediction Pro",
+  "description": "Professional statistical analysis and AI prediction dashboard for Jalwa Game with real-time analytics, confidence scores, and historical data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
